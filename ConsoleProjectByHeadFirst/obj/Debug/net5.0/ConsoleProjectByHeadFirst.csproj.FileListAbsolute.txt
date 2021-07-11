@@ -1,0 +1,16 @@
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\bin\Debug\net5.0\ConsoleProjectByHeadFirst.exe
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\bin\Debug\net5.0\ConsoleProjectByHeadFirst.deps.json
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\bin\Debug\net5.0\ConsoleProjectByHeadFirst.runtimeconfig.json
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\bin\Debug\net5.0\ConsoleProjectByHeadFirst.runtimeconfig.dev.json
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\bin\Debug\net5.0\ConsoleProjectByHeadFirst.dll
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\bin\Debug\net5.0\ref\ConsoleProjectByHeadFirst.dll
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\bin\Debug\net5.0\ConsoleProjectByHeadFirst.pdb
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.csproj.AssemblyReference.cache
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.AssemblyInfoInputs.cache
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.AssemblyInfo.cs
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.csproj.CoreCompileInputs.cache
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.dll
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ref\ConsoleProjectByHeadFirst.dll
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.pdb
+C:\Users\jligh\RiderProjects\ConsoleProjectByHeadFirst\ConsoleProjectByHeadFirst\obj\Debug\net5.0\ConsoleProjectByHeadFirst.genruntimeconfig.cache
